@@ -12,3 +12,7 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 ##### H5
 ###### H6
 
+* A
+* B
+* C
+* D
